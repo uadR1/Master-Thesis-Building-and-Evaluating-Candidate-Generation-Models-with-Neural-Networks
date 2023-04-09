@@ -359,4 +359,6 @@ online_retail_prep.csv
 online_retail_precleaned.csv
 online_retailed_precleaned.csv
 Rec_Sys_precleaned.csv
-rec_sys_precleaned.csc
+rec_sys_precleaned.csv
+online_retail_train.csv
+online_retail_test.csv
