@@ -370,4 +370,10 @@ rec_sys_binary_test.csv
 rec_sys_binary_train.csv
 rec_sys_ratings_test.csv
 rec_sys_ratings_train.csv
-
+online_retail_test.csv
+online_retail_test_mixed.csv
+online_retail_train_mixed.csv
+online_retail_train.csv
+online_retail_precleaned.csv
+rec_sys_binary_test_mixed.csv
+rec_sys_binary_train_mixed.csv
