@@ -391,3 +391,5 @@ rs_binary_test_full.csv
 rs_binary_test.csv
 rs_binary_train.csv
 rs_rating_results.csv
+pred.csv
+test.csv
