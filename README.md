@@ -1,1 +1,1 @@
-# MAthesis
+This is the repository contains all experiments including data understanding and preparation for my master thesis. The thesis compares latent factor-based candidate generation models with neural network based-models. 
